@@ -1,11 +1,11 @@
 #include<iostream>
 using namespace std;
 int factorial(int n){
-    int factorial = 1;
+    int fact = 1;
     for(int i = 1; i<=n;i++){
-        factorial*=i;
+        fact*=i;
     }
-    return factorial;
+    return fact;
 }
 int main(){
   cout<<"Factorial of N number is:"<<factorial(6);
