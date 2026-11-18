@@ -9,5 +9,6 @@ void minOfTwoNumbers(int a, int b){
     }
 }
 int main(){
+    
    minOfTwoNumbers(9,15);
 }
