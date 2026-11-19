@@ -8,5 +8,5 @@ int factorial(int n){
     return fact;
 }
 int main(){
-  cout<<"Factorial of N number is:"<<factorial(6);
+  cout<<"Factorial of N number is:"<<factorial(5);
 }
